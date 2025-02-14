@@ -17,5 +17,6 @@
         <li>💻 Cloning: Mendapatkan salinan repositori dari GitHub ke lokal.</li>
         <li>🌐 Git Remote: Menghubungkan repositori lokal dengan GitHub.</li>
     </ul>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore, mollitia!</p>
 </body>
 </html>
